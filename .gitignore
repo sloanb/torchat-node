@@ -1,0 +1,6 @@
+*.swp
+*.zip
+*.7z
+*.gz
+.DS_Store
+**/*.DS_Store

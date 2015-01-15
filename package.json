@@ -1,0 +1,16 @@
+{
+  "name": "torchat-node",
+  "version": "0.0.1",
+  "description": "TorChat protocol implementation in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "torchat",
+    "tor",
+    "node"
+  ],
+  "author": "Sloan Bowman",
+  "license": "MIT"
+}
