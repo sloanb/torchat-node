@@ -12,5 +12,13 @@
     "node"
   ],
   "author": "Sloan Bowman",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "socks-client": "*",
+    "underscore": "*",
+    "through": "*",
+    "from": "*",
+    "osx-notifier": "*",
+    "graceful-fs": "*"
+  }
 }
