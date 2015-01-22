@@ -19,6 +19,8 @@
     "through": "*",
     "from": "*",
     "osx-notifier": "*",
-    "graceful-fs": "*"
+    "graceful-fs": "*",
+    "bunyan": "*",
+    "terminal-menu": "*"
   }
 }
