@@ -21,6 +21,7 @@
     "osx-notifier": "*",
     "graceful-fs": "*",
     "bunyan": "*",
-    "terminal-menu": "*"
+    "terminal-menu": "*",
+    "colors": "*"
   }
 }
